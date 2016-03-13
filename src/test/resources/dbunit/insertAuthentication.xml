@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <USR_DETAILS ID="99" NICKNAME="CleanCode" EMAIL="clean.code@yahoo.com"/>
+    <AUTHN AUTHN_ID="100" LOGIN_NAME="CleanCode" PWD="CleanCODE" USR_DETAILS_ID="99"/>
+    
+    <USR_DETAILS ID="101" NICKNAME="DeleteMe" EMAIL="delete.me@yahoo.com"/>
+    <AUTHN AUTHN_ID="102" LOGIN_NAME="DeleteMe" PWD="DeleteMe" USR_DETAILS_ID="101"/>
+    
+</dataset>
